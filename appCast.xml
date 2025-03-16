@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+    <title>Bestgoal-TV</title>
+        <item>
+        <title>Version 1.0.0</title>
+        <description>
+        Bestgoal TV is a free application that allows you to watch live sports channels and matches for free.
+        </description>
+        <enclosure url="https://t.me/be_goal" sparkle:version="1.0.0" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+    </item>
+</channel>
+</rss>
