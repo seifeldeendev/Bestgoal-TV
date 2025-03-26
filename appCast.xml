@@ -3,11 +3,24 @@
 <channel>
     <title>Bestgoal-TV</title>
         <item>
-        <title>Version 1.0.0</title>
+        <title>Version 1.1.0</title>
         <description>
-        Bestgoal TV is a free application that allows you to watch live sports channels and matches for free.
+        النسخة الرسمية اصبحت متاحة الان 
+        1- جدول مباريات متكامل لجميع الاحداث الرياضية 
+        2- جميع نتائج المباريات محدثة لحظه بلحظة 
+        3- أحداث المباريات أول ب أول 
+        4- تشكيل الفرق فور توفرها 
+        5- ترتيب اهم الدوريات العالمية و المحلية 
+        6- البث بجوده عاليه و بدون تقطيع 
+        7- دعم الاشعارات التلقائية للهداف و بداية نهاية المباريات 
+
+        و مميزات اكثر اكتشفها مع تحميل التطبيق الان ⬇️⬇️
+        الموقع الرسمي : https://cutt.ly/GrpdGfa7
+
+        أو من خلال قناة التيليجرام الخاصة بنا: 
+        https://t.me/bestvapp
         </description>
-        <enclosure url="https://t.me/be_goal" sparkle:version="1.0.0" />
+        <enclosure url="https://bestgoalappdownload.blogspot.com/p/02.html" sparkle:version="1.1.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
 </channel>
