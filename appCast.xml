@@ -3,9 +3,9 @@
 <channel>
     <title>Bestgoal-TV</title>
         <item>
-        <title>Version 1.2.0</title>
+        <title>Version 1.2.5</title>
         <description>
-        النسخة الرسمية اصبحت متاحة الان 
+تحديث جديد لمواكبت المباريات القوية 
         1- جدول مباريات متكامل لجميع الاحداث الرياضية 
         2- جميع نتائج المباريات محدثة لحظه بلحظة 
         3- أحداث المباريات أول ب أول 
@@ -15,12 +15,12 @@
         7- دعم الاشعارات التلقائية للهداف و بداية نهاية المباريات 
 
         و مميزات اكثر اكتشفها مع تحميل التطبيق الان ⬇️⬇️
-        الموقع الرسمي : https://cutt.ly/GrpdGfa7
+        الموقع الرسمي : https://cutt.ly/prac9WbS
 
         أو من خلال قناة التيليجرام الخاصة بنا: 
         https://t.me/bestvapp
         </description>
-        <enclosure url="https://bestgoalappdownload.blogspot.com/p/02.html" sparkle:version="1.2.0" />
+        <enclosure url="https://bestgoalappdownload.blogspot.com/p/tv-span-display-block-font-size-20px.html" sparkle:version="1.2.5" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
 </channel>
