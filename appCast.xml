@@ -3,7 +3,7 @@
 <channel>
     <title>Bestgoal-TV</title>
         <item>
-        <title>Version 1.2.5</title>
+        <title>Version 1.3.5</title>
         <description>ئئ
         تحديث جديد لمواكبت المباريات القوية 
         1- جدول مباريات متكامل لجميع الاحداث الرياضية 
@@ -20,7 +20,7 @@
         أو من خلال قناة التيليجرام الخاصة بنا: 
         https://t.me/bestvapp
         </description>
-        <enclosure url="https://bestgoalappdownload.blogspot.com/p/tv-span-display-block-font-size-20px.html" sparkle:version="1.2.5" />
+        <enclosure url="https://bestgoalappdownload.blogspot.com/p/tv-span-display-block-font-size-20px.html" sparkle:version="1.3.5" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
 </channel>
